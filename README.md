@@ -1,0 +1,2 @@
+# Sqlite3-y-python
+SQL BASE DE DATOS CLINICA DENTAL
